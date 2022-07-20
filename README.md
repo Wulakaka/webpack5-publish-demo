@@ -1,1 +1,1 @@
-"# webpack5-publish-demo" 
+# webpack5-publish-demo

@@ -1,0 +1,20 @@
+{
+  "name": "webpack5-publish-demo",
+  "version": "1.0.0",
+  "description": "\"# webpack5-publish-demo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wulakaka/webpack5-publish-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wulakaka/webpack5-publish-demo/issues"
+  },
+  "homepage": "https://github.com/Wulakaka/webpack5-publish-demo#readme"
+}
